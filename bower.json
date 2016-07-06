@@ -1,5 +1,5 @@
 {
-  "name": "UIFramework",
+  "name": "confusion",
   "homepage": "https://github.com/EveryoneNoone/UIFramework",
   "authors": [
     "EveryoneNoone <aleksandr.smirnov2009@gmail.com>"
@@ -18,5 +18,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3"
+  }
 }
