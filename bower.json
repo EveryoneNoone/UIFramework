@@ -1,0 +1,22 @@
+{
+  "name": "UIFramework",
+  "homepage": "https://github.com/EveryoneNoone/UIFramework",
+  "authors": [
+    "EveryoneNoone <aleksandr.smirnov2009@gmail.com>"
+  ],
+  "description": "Website for an awesome restaurant study",
+  "main": "index.html",
+  "keywords": [
+    "conFusion",
+    "Fusion",
+    "Restaurant"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
